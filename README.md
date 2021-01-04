@@ -1,4 +1,4 @@
-# hijuslab
+# Machine Learning 웹캠 
 
 this is a work of machine learning.
 
